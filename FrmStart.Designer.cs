@@ -94,7 +94,6 @@
             this.tBCharacter.Name = "tBCharacter";
             this.tBCharacter.Size = new System.Drawing.Size(57, 20);
             this.tBCharacter.TabIndex = 1;
-            this.tBCharacter.TextChanged += new System.EventHandler(this.tBCharacter_TextChanged);
             // 
             // cmdLoad
             // 
