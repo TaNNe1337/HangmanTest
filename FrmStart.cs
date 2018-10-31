@@ -171,7 +171,6 @@ namespace Hangman
         private void cmdReset_Click(object sender, EventArgs e)
         {
             init();
-            Console.WriteLine("asasd");
         }
     }
 }
